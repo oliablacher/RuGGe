@@ -1,9 +1,10 @@
-## Welcome to Project Russian in Gerrmany across Generations
+## Welcome to a Project Russian in Germany across Generations
 Here you can write something about a project.
 
-### Markdown
+### About a project
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+3 generations of speakers of
+Russian in Germany
 
 ```markdown
 Syntax highlighted code block
